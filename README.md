@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- 使用React实现HOC高阶函数
+- 自定义translate-language-plugin，在打包完成时把字段定义同步到不同的语言包内
 
 ## Available Scripts
 
